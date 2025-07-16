@@ -1,0 +1,11 @@
+pandas
+yfinance
+numpy
+scikit-learn
+matplotlib
+plotly
+tensorflow
+keras
+mplfinance
+firebase-admin
+python-dotenv
